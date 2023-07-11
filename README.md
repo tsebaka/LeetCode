@@ -1,6 +1,8 @@
 # LeetCode tasks for Yandex
 
-| Status  |  #   |                                                                       Title                                                                       | **Difficulty** |                                     Solution                                      |
+
+
+| Status  |  #   |       Title                                                                       | **Difficulty** |                                     Solution                                      |
 | :-----: | :--: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-------------------------------------------------------------------------------: |
 | &#9745; | 228  |                                          [summary ranges](https://leetcode.com/problems/summary-ranges/)                                          |    **Easy**    | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/228.go)  |
 | &#9745; | 443  |                                      [string compression](https://leetcode.com/problems/string-compression/)                                      |   **Medium**   | [here](https://github.com/VanjaRo/LeetCodeTasksForYandex/blob/main/tasks/443.go)  |
